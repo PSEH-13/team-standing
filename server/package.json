@@ -1,0 +1,21 @@
+{
+  "name": "team-standing",
+  "version": "1.0.0",
+  "description": "team standing in various football leage",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "pradeep1991singh",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "express": "^4.17.1",
+    "helmet": "^3.21.1",
+    "http-status": "^1.4.0",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
